@@ -13,14 +13,18 @@ Multiplication \*
 
 Division /
 
-📚 Concepts Used
+📚 Concepts Used :
+
 1.Variables
+
 2.Data types
+
 3.Conditional statements (if-else)
 
 👨‍💻 Author - Shashank C V
-GitHub: [@Shashank8811]
-(https://github.com/Shashank8811)  
+GitHub: @Shashank8811
+(https://github.com/Shashank8811)
+
 Feel free to connect and give feedback!
 
 ⭐ If you found this helpful, please give a star to the repo and share it with others learning Python!
